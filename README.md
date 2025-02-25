@@ -1,4 +1,4 @@
-#LabReport01-GraphTraversal
+# LabReport01-GraphTraversal
 
 
 ## Overview
